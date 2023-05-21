@@ -19,38 +19,5 @@
             </div>
 
         </div>
-        <div class="main">
-            <div class="container">
-                <h1>Take it easy, coffee time</h1>
-                <p>1998年創業。こだわりぬいたコーヒー豆。<br>ホッと一息つきませんか</p>
-                <p>Cafe Info</p>
-                <P>OPEN 10:00</P>
-                <p>CLOSE 18:00</p>
-                <p>OPEN DAY MONDAY to SATURDAY</p>
-                <div class="btn-wrapper">
-                    <a href="#" class="btn facebook">Facebook</a>
-          
-                    <a href="#" class="btn twitter">Twitter</a>
-
-                    <a href="#" class="btn instagram">Instagram</a>
-
-                
-            </div>
-            
-
-        </div>
-        <div class="footer">
-            <div class="footer-logo">東京コーヒー</div>
-            <div class="footer-list">
-                <ul>
-                    <li>アクセス</li>
-                    <li>採用情報</li>
-                    <li>お問い合わせ</li>
-                </ul>
-            </div>
-
-        </div>
-      
-    </body>
-</html>
- 
+     </body>
+</html>   
